@@ -1,6 +1,7 @@
 {
   "name": "react-recipes",
   "version": "0.1.0",
+  "homepage": "https://ngdis13.github.io/react-recipes",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
